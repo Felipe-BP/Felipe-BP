@@ -9,3 +9,13 @@ Software Developer @Atos.
 Enthusiast of web and mobile development technologies.
 
 Improving the world and people lives by creating software.
+
+<details>
+  <summary>:rocket: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=felipe-bp&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula">
+</details>
+
+<details>
+  <summary>:rocket: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-bp&layout=compact&&theme=dracula">
+</details>
