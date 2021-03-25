@@ -9,7 +9,7 @@
 ## Github Stats
 
 <details>
-  <summary>Github Stats 🚀</summary>
+  <summary>General 🚀</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=felipe-bp&count_private=true&show_icons=true&theme=dracula">
 </details>
 
