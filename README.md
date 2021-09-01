@@ -1,10 +1,10 @@
 ![Felipe-Bueno-Greetings](assets/felipe-bueno-greetings.png)
 
-🔭 I’m currently working at @Atos
+🔭 I’m a Fullstack Developer.
 
-🌱 I’m currently learning any techs related to modern web development
+🌱 I’m currently learning any techs related to modern web development.
 
-❓ Ask me about anything related to Typescript/Angular/Nestjs/React/Nextjs
+❓ Ask me about anything related to Javascript/Typescript, Angular/React/Nextjs, Node/Nestjs, Docker, Kubernetes, micro-services, design patterns and software architecture.
 
 ## Github Stats
 
